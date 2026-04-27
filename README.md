@@ -110,6 +110,5 @@
 
 <br clear="both">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stefanomitello&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
+<img src="https://streak-stats.demolab.com?user=stefanomitello&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" />
 ###
